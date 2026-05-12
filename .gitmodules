@@ -1,0 +1,3 @@
+[submodule "bulk_coarsen"]
+	path = bulk_coarsen
+	url = git@github.com:vaughnzaayer/bulk_coarsen.git

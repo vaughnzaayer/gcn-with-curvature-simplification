@@ -1,4 +1,6 @@
 __pycache__/
 logs/
-data/
 .venv/
+data/shrec_16/raw/
+data/shrec_16/processed/
+

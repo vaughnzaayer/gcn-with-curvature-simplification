@@ -25,8 +25,8 @@ If you're using MacOS, instead use:
 pip install -r macos_requirements.txt
 ```
 
-## Downloading the Dataset
-TODO
+## Unpacking the Dataset
+To unpack the dataset, simply run ``bash unpack_dataset.sh`` from the project's root directory.
 
 ## Preprocessing the Dataset
 Initiate preprocessing with 
